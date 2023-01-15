@@ -4,6 +4,6 @@ import './styles.css'
 //  Если нажать на кнопку то надпись добавляет + 1
 export default function Counter() {
 	return (
-		<div>Counter</div>
+		<div>Counter McAni</div>
 	)
 }
