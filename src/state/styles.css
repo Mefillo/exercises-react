@@ -1,0 +1,16 @@
+.exercise-block {
+    padding: 32px 0;
+    border-bottom: 4px solid lightblue;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.exercise {
+    padding: 8px 0;
+    border-bottom: 1px solid lightblue;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
